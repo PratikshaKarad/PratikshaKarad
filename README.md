@@ -1,10 +1,9 @@
 
 
-- 🔭 I’m currently working on my course.
-- 👩🏻‍💻  As an full Stack Developer.
-- 🌱 I’m currently learning Express.JS.
-- 
-- 😄 Pronouns: She/Her
+- 🔭 In search of developemnet projects.
+- 👩🏻‍💻  A full Stack Developer.
+- 🌱 I’m currently working on new projects.
+- 😄 Python , Data Structure , Front-End Developer , Back-End Developer.
 - ⚡ Fun fact:Happy
 
 
